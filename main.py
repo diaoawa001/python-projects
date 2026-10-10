@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import random
 secretNumber = random.randint (1,100)
 attempts = 0
@@ -16,6 +15,3 @@ while userGuess != secretNumber:
 
 print("Congratulations, you guessed the correct number!")
 print(f"It took you {attempts} attempt(s).")
-=======
-
->>>>>>> 6ebb541d9dc0045822789af990000359b8ede882
